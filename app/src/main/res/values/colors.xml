@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="dark_blue">#343E56</color>
+    <color name="reset_btn_color">#C70039</color>
+
+<!--    color for action bar-->
+    <color name="colorPrimary">#020325</color>
+<!--    #01021B-->
+</resources>
